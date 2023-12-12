@@ -17,4 +17,4 @@ Although right now this is more of a proof of concept, I plan to expand on this 
 - And much more!
 
 ## Behind the Scenes
-For those keen on implementing a similar concept in your projects, I've documented the intricacies in a comprehensive Medium article. Dive into the details, understanding the construction process from line to line. 🍞✨
+For those keen on implementing a similar concept in your projects, I've documented the intricacies in a comprehensive Medium article. Dive into the details, understanding the construction process from line to line. [View it here](https://medium.com/@ethanprjohnson/how-to-create-a-modern-react-native-toast-module-53017dd832b7) 🍞✨
