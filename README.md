@@ -1,4 +1,4 @@
-# Welcome to the React Native Toast
+# Welcome to React Native Burnt
 ## Hey! 🚀
 
 Thank you for exploring my interpretation and custom implementation of a React Native Toast component. My aim was to craft a toast that embodies a modern, minimalistic aesthetic, seamlessly incorporating animations (lotties) for a refined user experience.
