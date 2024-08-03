@@ -1,2 +1,2 @@
-# Welcome to React Native Burnt
+# Welcome to React Native toasted
 Coming soon
